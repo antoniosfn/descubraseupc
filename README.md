@@ -1,2 +1,4 @@
 # descubraseupc
-Projeto de extensão submetido para avaliação na disciplina Projeto Integrador I do Curso Técnico em Manutenção e Suporte em Informática do Instituto Federal de Educação, Ciência e Tecnologia do Pará, Campus Conceição do Araguaia.
+Discover your PC was developed and presented at the Federal Institute of Pará in early 2020 as a final requirement to obtain the diploma of technician in maintenance and support in computer science. 
+
+The main objective of the open source project is to allow the community to have a base to build something bigger. It was developed using PHP and the bootstrap 4 framework.
